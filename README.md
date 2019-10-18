@@ -4,7 +4,7 @@ Supplementary data, and code, for the preprint "Identifying density-dependent in
 
 
 ## Experimental data
-Raw data in the /Data folder corresponds to experiment indices in the main document as follows:
+Raw data in the `/Data` folder corresponds to experiment indices in the main document as follows:
 
 | Index |  Folder  |
 |:-----:|:--------:|
