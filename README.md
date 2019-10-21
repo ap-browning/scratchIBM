@@ -43,10 +43,10 @@ For more details, see `ExperimentalData.xlsx`
   
 ### Installation
 
-Before use, you must compile the MEX code contained in IBM.c using the 
+Before use, you must compile the MEX code contained in `IBM.c` using the 
 `Install.m` script or typing:
 
-    mex BinnyIBM.c  -R2018a
+    mex IBM.c  -R2018a
     
 into the command window.
 
