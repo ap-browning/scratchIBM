@@ -1,6 +1,10 @@
 # scratchIBM
 
-Supplementary data, and code, for the preprint "Identifying density-dependent interactions in collective cell behaviour" [available on bioRxiv](https://www.biorxiv.org)
+Supplementary data, and code, for 
+
+["Browning AP, Jin W, Plank MJ, Simpson MJ (2019) Identifying density-dependent interactions in collective cell behaviour" _J R Soc Interface_ __17__:20200143](https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0143#d3e4763)
+
+[preprint available on bioRxiv](https://www.biorxiv.org)
 
 
 ## Experimental data
