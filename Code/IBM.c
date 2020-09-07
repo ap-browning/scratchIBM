@@ -46,7 +46,7 @@ inline void srand2(int x) {
 }
 #define RAND_MAX2 ((1U << 31) - 1)
 inline int rand2() {
-    return rseed = (rseed * 1103515245 + 12345) & RAND_MAX;
+    return rseed = (rseed * 1103515245 + 12345) & RAND_MAX2;
 }
 
 
